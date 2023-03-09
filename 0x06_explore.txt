@@ -1,2 +1,2 @@
 #!/bin/sh
-$ head -n 11 /etc/passwd
+$ head -n 11 /root/etc/passwd
